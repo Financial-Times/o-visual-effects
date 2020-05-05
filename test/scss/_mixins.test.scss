@@ -30,7 +30,7 @@
 			@include output() {
 				@include oVisualEffects($opts: ());
 			}
-			@include expect() {
+			@include expect() { // stylelint-disable-line block-no-empty
 			}
 		}
 	}
