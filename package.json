@@ -12,7 +12,7 @@
     },
     "main": "main.js",
     "peerDependencies": {
-        "@financial-times/o-colors": "^5.0.0"
+        "@financial-times/o-colors": "^100.0.0-3"
     },
     "description": "Provides visual effects through SCSS mixins, such as shadows and animations",
     "publishConfig": {
