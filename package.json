@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/o-visual-effects",
-  "version": "100.0.0-10",
+  "version": "100.0.0-11",
   "description": "Provides visual effects through SCSS mixins, such as shadows and animations",
   "keywords": [],
   "homepage": "https://github.com/Financial-Times/o-visual-effects#readme",
@@ -33,7 +33,7 @@
     "typescript": "^4.0.5"
   },
   "peerDependencies": {
-    "@financial-times/o-colors": "^100.0.0-10"
+    "@financial-times/o-colors": "^100.0.0-11"
   },
   "publishConfig": {
     "registry": "https://origami-npm-registry-prototype.herokuapp.com"
